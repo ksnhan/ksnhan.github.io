@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: What should be known about Low Power Wide Area Network (LPWAN)
+subtitle: A survey about current LPWAN by Nhan NGUYEN-THANH
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
